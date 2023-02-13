@@ -20,7 +20,7 @@
 | 16     | Portfolio 3   | https://bspadhy1999.github.io/Bootstrap-Project/Portfolio%203/index.html |
 | 17     | Login Form   | https://bspadhy1999.github.io/Bootstrap-Project/Login%20Form/index.html |
 | 18     | Signup Form   | https://bspadhy1999.github.io/Bootstrap-Project/Signup%20Form/index.html |
-| 19     | Otp Verification Form   | Otp Verification Form/index.html |
+| 19     | Otp Verification Form   | https://bspadhy1999.github.io/Bootstrap-Project/Otp%20Verification%20Form/index.html |
 | 20     | Forgot Password Form   | https://bspadhy1999.github.io/Bootstrap-Project/Forgot%20Password%20Form/index.html |
 | 21     | SEO   | https://bspadhy1999.github.io/Bootstrap-Project/SEO/index.html |
 | 22     | Multiple Dropdown Menu  | https://bspadhy1999.github.io/Bootstrap-Project/Multiple%20Dropdown%20Menu/index.html |
